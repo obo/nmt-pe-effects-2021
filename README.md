@@ -5,12 +5,13 @@ Please (currently) cite the following when you use this research:
 
 ```
 @misc{zouhar2021neural,
-      title={Neural Machine Translation Quality and Post-Editing Performance}, 
+      title="{Neural Machine Translation Quality and Post-Editing Performance}", 
       author={Vilém Zouhar and Aleš Tamchyna and Martin Popel and Ondřej Bojar},
       year={2021},
       eprint={2109.05016},
       archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      primaryClass={cs.CL},
+      note="{To appear at EMNLP2021}",
 }
 ```
 
